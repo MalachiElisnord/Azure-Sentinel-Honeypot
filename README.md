@@ -1,5 +1,7 @@
 # Azure Sentinel Honeypot: Global RDP Attack Detection
 
+![SIEM Project Overview](https://example.com/your-image-link-here.png)
+
 ## Objective
 
 The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks using Azure Sentinel. The primary focus was to ingest and analyze logs within the SIEM system, specifically observing live RDP brute force attacks from around the world. Additionally, a custom PowerShell script was utilized to look up attackers' geolocation information and plot it on the Azure Sentinel Map. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
