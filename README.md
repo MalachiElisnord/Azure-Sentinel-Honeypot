@@ -16,10 +16,10 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### Tools Used
 
 - **Azure Sentinel**: For log ingestion, analysis, and visualizing attack patterns on a map.
+- **Azure Log Analytics Workspace (LAW)**: For collecting and analyzing logs from the VM.
 - **Virtual Machine (VM)**: Used as a honeypot to attract and log brute force attack attempts.
 - **PowerShell Script**: Custom script to retrieve geolocation data for attack visualization.
 - **Geolocation.io API**: Service to convert IP addresses into geographical locations.
-- **Log Analytics Workspace (LAW)**: For collecting and analyzing logs from the VM.
 - **Azure Playbooks**: Automated incident response to alert on repeated failed login attempts.
 
 
