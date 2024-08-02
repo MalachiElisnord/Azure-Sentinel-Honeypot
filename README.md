@@ -1,6 +1,6 @@
 # Azure Sentinel Honeypot: Global RDP Attack Detection
 
-![SIEM Project Overview](https://example.com/your-image-link-here.png)
+![Screenshot 2023-10-20 160615](https://github.com/user-attachments/assets/cf8623f6-ef0c-46af-b775-c6cdc38a6eec)
 
 ## Objective
 
@@ -49,11 +49,17 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ## Screenshots
 
+![Screenshot 2023-10-20 160615](https://github.com/user-attachments/assets/cf8623f6-ef0c-46af-b775-c6cdc38a6eec)
+
 *Ref 1: Network Diagram*
 - Description: (Insert description explaining the network setup and its purpose.)
 
+![heat map](https://github.com/user-attachments/assets/9f1c1dcc-aea3-49e7-aec3-9cc894548b4e)
+
 *Ref 2: Azure Sentinel Map*
 - Description: (Insert description of the map visualization, highlighting key observations from the attacks.)
+
+![powershell failed log](https://github.com/user-attachments/assets/7aae2869-2547-40a9-8a85-002297160f8c)
 
 *Ref 3: PowerShell Script Output*
 - Description: (Insert description of the script's output, focusing on the geolocation data obtained.)
