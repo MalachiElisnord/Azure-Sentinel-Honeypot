@@ -1,6 +1,9 @@
 # Azure Sentinel Honeypot: Global RDP Attack Detection
 
-![Screenshot 2023-10-20 160615](https://github.com/user-attachments/assets/cf8623f6-ef0c-46af-b775-c6cdc38a6eec)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/a2d9748f-6833-400d-90b0-d9742f71c30d" alt="SIEM Project Overview" style="border: 2px solid #000; border-radius: 5px;">
+</div>
+
 
 ## Objective
 
@@ -49,22 +52,31 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ## Screenshots
 
-![Screenshot 2023-10-20 160615](https://github.com/user-attachments/assets/cf8623f6-ef0c-46af-b775-c6cdc38a6eec)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/a2d9748f-6833-400d-90b0-d9742f71c30d" alt="SIEM Project Overview" style="border: 2px solid #000; border-radius: 5px;">
+</div>
 
 *Ref 1: Network Diagram*
 - Description: (Insert description explaining the network setup and its purpose.)
 
-![heat map](https://github.com/user-attachments/assets/9f1c1dcc-aea3-49e7-aec3-9cc894548b4e)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/9f1c1dcc-aea3-49e7-aec3-9cc894548b4e" alt="SIEM Project Overview" style="border: 2px solid #000; border-radius: 5px;">
+</div>
 
 *Ref 2: Azure Sentinel Map*
 - Description: (Insert description of the map visualization, highlighting key observations from the attacks.)
 
-![powershell failed log](https://github.com/user-attachments/assets/7aae2869-2547-40a9-8a85-002297160f8c)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/7aae2869-2547-40a9-8a85-002297160f8c" alt="SIEM Project Overview" style="border: 2px solid #000; border-radius: 5px;">
+</div>
 
 *Ref 3: PowerShell Script Output*
 - Description: (Insert description of the script's output, focusing on the geolocation data obtained.)
 
-![image](https://github.com/user-attachments/assets/1a831ef8-b00b-4ecf-b706-aaab3beb307e)
+
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/1a831ef8-b00b-4ecf-b706-aaab3beb307e" alt="SIEM Project Overview" style="border: 2px solid #000; border-radius: 5px;">
+</div> 
 
 *Ref 4: Email Alerts*
 - Description: (}
