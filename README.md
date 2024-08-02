@@ -64,13 +64,8 @@ The Detection Lab project aimed to establish a controlled environment for simula
 *Ref 3: PowerShell Script Output*
 - Description: (Insert description of the script's output, focusing on the geolocation data obtained.)
 
-[Include additional screenshots as necessary with corresponding explanations.]
+![image](https://github.com/user-attachments/assets/1a831ef8-b00b-4ecf-b706-aaab3beb307e)
 
+*Ref 4: Email Alerts*
+- Description: (}
 
-
-
-   
-drag & drop screenshots here or use imgur and reference them using imgsrc
-Every screenshot should have some text explaining what the screenshot is about.
-Example below.
-*Ref 1: Network Diagram*
