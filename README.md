@@ -92,7 +92,7 @@ This heat map is a critical component of the SIEM setup, enabling quick identifi
 - **Custom Log Creation**: The script generates a custom log file that stores the geolocation data along with details of the failed login attempt, including the timestamp, source IP, and destination host.
 - **Sample Logs for Training**: It also creates sample log entries to assist with the training of extraction features in Azure Log Analytics Workspace.
 
-This script automates the process of enriching RDP brute force attack data with geolocation information, which is then visualized on a heat map within Azure Sentinel.
+This script automates the process of enriching RDP brute force attack data with geolocation information, which is then visualized on a heat map within Azure Sentinel. You can view the script [here](https://github.com/MalachiElisnord/Azure-Sentinel-Honeypot/blob/main/IP_Geolocation.ps1).  
 
 
 <div style="text-align: center;">
