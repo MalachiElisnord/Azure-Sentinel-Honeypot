@@ -5,18 +5,18 @@
 </div>
 
 
-## Objective
+## Overview
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks using Azure Sentinel. The primary focus was to ingest and analyze logs within the SIEM system, specifically observing live RDP brute force attacks from around the world. Additionally, a custom PowerShell script was utilized to look up attackers' geolocation information and plot it on the Azure Sentinel Map. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This Detection project is aimed to establish a controlled environment for simulating and detecting cyber attacks using Azure Sentinel. The primary focus was to ingest and analyze logs within the Microsoft's Azure SIEM, specifically monitoring live RDP brute force attacks from around the world. Additionally, a custom PowerShell script was utilized to look up attackers' geolocation information and plot it on the Azure Sentinel Map. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
-### Skills Learned
+### Skills Utilized 
 
-- Advanced understanding of SIEM concepts and practical application with Azure Sentinel.
-- Proficiency in analyzing and interpreting network logs within a cloud environment.
-- Ability to generate and recognize attack signatures and patterns, specifically RDP brute force attempts.
-- Enhanced knowledge of network protocols, security vulnerabilities, and geographic attack analysis.
-- Development of critical thinking and problem-solving skills in cybersecurity.
-- Practical experience in automating incident responses with Azure Playbooks.
+- Applied advanced SIEM concepts and practical expertise with Azure Sentinel.
+- Analyzed and interpreted network logs within a cloud environment.
+- Identified and generated attack signatures and patterns, focusing on RDP brute force attempts.
+- Utilized knowledge of network protocols, security vulnerabilities, and geographic attack analysis.
+- Demonstrated critical thinking and problem-solving in cybersecurity scenarios.
+- Automated incident responses using Azure Playbooks.
 
 ### Tools Used
 
@@ -30,7 +30,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ## Steps
 
-1. **Setup Azure Subscription and Virtual Machine**
+1. **Setup Azure Subscription and Virtual Machine (VM)**
     - Created an Azure account and set up a VM to act as a honeypot, logging access attempts.
   
 2. **Configure Security and Log Gathering**
